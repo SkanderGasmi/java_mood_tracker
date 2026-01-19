@@ -105,4 +105,4 @@ Enhance search functionality with partial name matching
 
 Add unit tests for all functionalities
 
-Include statistics and mood analytics
+Include statistics and mood analytics.
