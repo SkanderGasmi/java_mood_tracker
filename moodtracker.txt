@@ -1,0 +1,2 @@
+Mood{name='happy', date=2026-01-19, time=18:10, notes='i am not appy no more'}
+
