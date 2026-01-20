@@ -1,6 +1,6 @@
 # Mood Tracker Console Application
 
-![Java](https://img.shields.io/badge/Java-JDK%2021-orange)
+![Java](https://img.shields.io/badge/Java-JDK%2025-orange)
 ![Console App](https://img.shields.io/badge/Application-Console-blue)
 
 ---
